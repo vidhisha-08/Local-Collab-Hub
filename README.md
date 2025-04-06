@@ -69,15 +69,8 @@ An AI-driven platform that helps small businesses collaborate via:
 
 ##  Links
 
--  [Live Demo](#)
--  [Demo Video (3 min)](#)
--  [[MVP Link (Hosted on IDX/Firebase)](#)](https://www.figma.com/proto/QTI8aAFBVTD25Yv9AI5FTa/Untitled?node-id=50-23&t=oHI2f95smgR2nOZn-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A10)
-
----
-
-## Snapshots
-
-Add screenshots in `/assets/MVP-snapshots` and display them here using markdown.
+-  [Demo Video (3 min)](#) : https://youtu.be/juQIo-fMYTY?si=FWGKfuwoDanlIjVe
+-  [[MVP Link (Hosted on IDX/Firebase)](#)][(https://www.figma.com/proto/QTI8aAFBVTD25Yv9AI5FTa/Untitled?node-id=50-23&t=oHI2f95smgR2nOZn-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A10)](https://www.figma.com/proto/QTI8aAFBVTD25Yv9AI5FTa/Local_Collab_Hub(Creative-Catalyst)?node-id=0-1&t=hBYB5k7Ox8MSZWe4-1)
 
 ---
 
